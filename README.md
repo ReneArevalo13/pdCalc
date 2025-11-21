@@ -14,3 +14,7 @@ Release v1.0 corresponds to the code in the published book, without corrections 
 ## Contributions
 
 See the file Contributing.md for more information on how you can contribute to this repository.
+
+## RENE AREVALO
+Reimplementing pdCalc for the sake of learning software design.
+My implementation will be my_pdCalc.
